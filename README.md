@@ -11,6 +11,11 @@ Source code: https://github.com/realpython/materials/tree/master/flask-connexion
     python server.py
 
 
+## To run:
+
+    Go to localhost:5000 for the web app,
+    or to localhost:5000/api/ui for the Swagger UI 
+
 
 ## To create/reset the SQLLite database (people.db):
 
