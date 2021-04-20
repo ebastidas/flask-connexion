@@ -23,7 +23,7 @@ marshmallow-sqlalchemy==0.15.0
 more-itertools==5.0.0
 openapi-spec-validator==0.2.4
 pluggy==0.8.0
-py==1.7.0
+py==1.10.0
 pytest==4.0.2
 pytz==2018.7
 PyYAML==3.13
